@@ -1,0 +1,7 @@
+D:\OneDrive - Dunaújvárosi Egyetem\Study\Coding\09_HackerRank\HackerRank\2DArrays\obj\Debug\2DArrays.csprojAssemblyReference.cache
+D:\OneDrive - Dunaújvárosi Egyetem\Study\Coding\09_HackerRank\HackerRank\2DArrays\obj\Debug\2DArrays.csproj.CoreCompileInputs.cache
+D:\OneDrive - Dunaújvárosi Egyetem\Study\Coding\09_HackerRank\HackerRank\2DArrays\bin\Debug\2DArrays.exe.config
+D:\OneDrive - Dunaújvárosi Egyetem\Study\Coding\09_HackerRank\HackerRank\2DArrays\bin\Debug\2DArrays.exe
+D:\OneDrive - Dunaújvárosi Egyetem\Study\Coding\09_HackerRank\HackerRank\2DArrays\bin\Debug\2DArrays.pdb
+D:\OneDrive - Dunaújvárosi Egyetem\Study\Coding\09_HackerRank\HackerRank\2DArrays\obj\Debug\2DArrays.exe
+D:\OneDrive - Dunaújvárosi Egyetem\Study\Coding\09_HackerRank\HackerRank\2DArrays\obj\Debug\2DArrays.pdb
